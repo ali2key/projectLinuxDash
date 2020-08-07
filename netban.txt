@@ -1,1 +1,0 @@
-TX br0: 1 kb/s RX br0: 10000 kb/s
